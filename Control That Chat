@@ -1,2 +1,923 @@
-local o,l = '|This file was obfucasted by acsu123#9826|','|Youtube: Ekun Scripts|';local Z = '~S!BWk#YB0~Zrt=[uh}md!{u0y(@%7t%v~k*k=LMTKg@4`7}f2gjHaDdyr%h{d-odbbo}M0O=6uX5]R@ZY_cYsg=K+aD{-S]{Ul)b#C}OWSoTe}o3%rxcxpMnp&hhEea{q)|]r_M$H0CMVQlE7IH~X_n$6u+fz+`P!}N[%}!rVh4lY^QBs=B&$OZO8PUcGTSlNbiw|)OR[o2U`n-rgsd)72DLm=NSMb4}c$r`15PX_mn)AefGxiv~@ZK{S{M~|m{]}k[W&Lp5YCT}HZB48W4OrkH9d_9~b2[|${SYF7z~f){MNumr*&6d|i$~`R`~o||]_NWup+tu!m7sH)Kt5lw1ue1sV0r!Vm7LZz5^p{f}g#nN1X7B8``]dZpZuHF&TiwoH]`W-dR`&5LMyo%bn#~qHp&2WqOly!z58xxZB^XmQeZ%sI&Fq&WYaHvXY98=PcXsA+(26L^rQJb9(*ke2723j=v82~0mbtFCkt~&5%dqte|g+fkS#$r';local Z = '~S!BWk#YB0~Zrt=[uh}md!{u0y(@%7t%v~k*k=LMTKg@4`7}f2gjHaDdyr%h{d-odbbo}M0O=6uX5]R@ZY_cYsg=K+aD{-S]{Ul)b#C}OWSoTe}o3%rxcxpMnp&hhEea{q)|]r_M$H0CMVQlE7IH~X_n$6u+fz+`P!}N[%}!rVh4lY^QBs=B&$OZO8PUcGTSlNbiw|)OR[o2U`n-rgsd)72DLm=NSMb4}c$r`15PX_mn)AefGxiv~@ZK{S{M~|m{]}k[W&Lp5YCT}HZB48W4OrkH9d_9~b2[|${SYF7z~f){MNumr*&6d|i$~`R`~o||]_NWup+tu!m7sH)Kt5lw1ue1sV0r!Vm7LZz5^p{f}g#nN1X7B8``]dZpZuHF&TiwoH]`W-dR`&5LMyo%bn#~qHp&2WqOly!z58xxZB^XmQeZ%sI&Fq&WYaHvXY98=PcXsA+(26L^rQJb9(*ke2723j=v82~0mbtFCkt~&5%dqte|g+fkS#$r';local Z = 'Lolis are pretty cool dont you think?';local Z = '95735176369622992091079262877727291819445407697906014030228090810001946497256957668062094803985995180739455150916822021411800300928992847463455137449581772803895794989725061685329387464745035514012984591659182020876341945406907296655811830032129764959499199919584166359463675642147087906997956373908944212886091799599199984521822717238426126206256275174636819090714657379990616233850214995805986442180179241865141273672263861506724832856042567795062388674825407881067661927696102331298680220908015772';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1///38/////3/3/1/1/55750/9///09004/4//2/0///2///1/586//389/6/88//820/5//4//7//71/////67717//19/23/32512/004///2///2/5/48/57614/44/8/1/93/0///6//6////270918/6/2////686/67/47716/03//66/197/1/202///9451/675/9///2/9968/11///04303//85/7/5//1///1/7/5298/7/48/9/796214//////9////784///0//56312//9//0///6//2////6732/23/1/24/5291383/82782/71/58/9/2/0/0/1688///////828344/70314//8//6//95531//1//242/97261///9/338//816/8/25/42/78/4388///6/82///995/265////1/9/991/3/9/81/24/13//9//22//0/017//2';local Z = 'Lolis are pretty cool dont you think?';local Z = 'Lolis are pretty cool dont you think?';local Z = '~S!BWk#YB0~Zrt=[uh}md!{u0y(@%7t%v~k*k=LMTKg@4`7}f2gjHaDdyr%h{d-odbbo}M0O=6uX5]R@ZY_cYsg=K+aD{-S]{Ul)b#C}OWSoTe}o3%rxcxpMnp&hhEea{q)|]r_M$H0CMVQlE7IH~X_n$6u+fz+`P!}N[%}!rVh4lY^QBs=B&$OZO8PUcGTSlNbiw|)OR[o2U`n-rgsd)72DLm=NSMb4}c$r`15PX_mn)AefGxiv~@ZK{S{M~|m{]}k[W&Lp5YCT}HZB48W4OrkH9d_9~b2[|${SYF7z~f){MNumr*&6d|i$~`R`~o||]_NWup+tu!m7sH)Kt5lw1ue1sV0r!Vm7LZz5^p{f}g#nN1X7B8``]dZpZuHF&TiwoH]`W-dR`&5LMyo%bn#~qHp&2WqOly!z58xxZB^XmQeZ%sI&Fq&WYaHvXY98=PcXsA+(26L^rQJb9(*ke2723j=v82~0mbtFCkt~&5%dqte|g+fkS#$r';local Z = 'Lolis are pretty cool dont you think?';local Z = '95735176369622992091079262877727291819445407697906014030228090810001946497256957668062094803985995180739455150916822021411800300928992847463455137449581772803895794989725061685329387464745035514012984591659182020876341945406907296655811830032129764959499199919584166359463675642147087906997956373908944212886091799599199984521822717238426126206256275174636819090714657379990616233850214995805986442180179241865141273672263861506724832856042567795062388674825407881067661927696102331298680220908015772';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1///38/////3/3/1/1/55750/9///09004/4//2/0///2///1/586//389/6/88//820/5//4//7//71/////67717//19/23/32512/004///2///2/5/48/57614/44/8/1/93/0///6//6////270918/6/2////686/67/47716/03//66/197/1/202///9451/675/9///2/9968/11///04303//85/7/5//1///1/7/5298/7/48/9/796214//////9////784///0//56312//9//0///6//2////6732/23/1/24/5291383/82782/71/58/9/2/0/0/1688///////828344/70314//8//6//95531//1//242/97261///9/338//816/8/25/42/78/4388///6/82///995/265////1/9/991/3/9/81/24/13//9//22//0/017//2';local Z = 'Lolis are pretty cool dont you think?';local Z = '95735176369622992091079262877727291819445407697906014030228090810001946497256957668062094803985995180739455150916822021411800300928992847463455137449581772803895794989725061685329387464745035514012984591659182020876341945406907296655811830032129764959499199919584166359463675642147087906997956373908944212886091799599199984521822717238426126206256275174636819090714657379990616233850214995805986442180179241865141273672263861506724832856042567795062388674825407881067661927696102331298680220908015772';local Z = '~S!BWk#YB0~Zrt=[uh}md!{u0y(@%7t%v~k*k=LMTKg@4`7}f2gjHaDdyr%h{d-odbbo}M0O=6uX5]R@ZY_cYsg=K+aD{-S]{Ul)b#C}OWSoTe}o3%rxcxpMnp&hhEea{q)|]r_M$H0CMVQlE7IH~X_n$6u+fz+`P!}N[%}!rVh4lY^QBs=B&$OZO8PUcGTSlNbiw|)OR[o2U`n-rgsd)72DLm=NSMb4}c$r`15PX_mn)AefGxiv~@ZK{S{M~|m{]}k[W&Lp5YCT}HZB48W4OrkH9d_9~b2[|${SYF7z~f){MNumr*&6d|i$~`R`~o||]_NWup+tu!m7sH)Kt5lw1ue1sV0r!Vm7LZz5^p{f}g#nN1X7B8``]dZpZuHF&TiwoH]`W-dR`&5LMyo%bn#~qHp&2WqOly!z58xxZB^XmQeZ%sI&Fq&WYaHvXY98=PcXsA+(26L^rQJb9(*ke2723j=v82~0mbtFCkt~&5%dqte|g+fkS#$r';local Z = 'Lolis are pretty cool dont you think?';local Z = '~S!BWk#YB0~Zrt=[uh}md!{u0y(@%7t%v~k*k=LMTKg@4`7}f2gjHaDdyr%h{d-odbbo}M0O=6uX5]R@ZY_cYsg=K+aD{-S]{Ul)b#C}OWSoTe}o3%rxcxpMnp&hhEea{q)|]r_M$H0CMVQlE7IH~X_n$6u+fz+`P!}N[%}!rVh4lY^QBs=B&$OZO8PUcGTSlNbiw|)OR[o2U`n-rgsd)72DLm=NSMb4}c$r`15PX_mn)AefGxiv~@ZK{S{M~|m{]}k[W&Lp5YCT}HZB48W4OrkH9d_9~b2[|${SYF7z~f){MNumr*&6d|i$~`R`~o||]_NWup+tu!m7sH)Kt5lw1ue1sV0r!Vm7LZz5^p{f}g#nN1X7B8``]dZpZuHF&TiwoH]`W-dR`&5LMyo%bn#~qHp&2WqOly!z58xxZB^XmQeZ%sI&Fq&WYaHvXY98=PcXsA+(26L^rQJb9(*ke2723j=v82~0mbtFCkt~&5%dqte|g+fkS#$r';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1///38/////3/3/1/1/55750/9///09004/4//2/0///2///1/586//389/6/88//820/5//4//7//71/////67717//19/23/32512/004///2///2/5/48/57614/44/8/1/93/0///6//6////270918/6/2////686/67/47716/03//66/197/1/202///9451/675/9///2/9968/11///04303//85/7/5//1///1/7/5298/7/48/9/796214//////9////784///0//56312//9//0///6//2////6732/23/1/24/5291383/82782/71/58/9/2/0/0/1688///////828344/70314//8//6//95531//1//242/97261///9/338//816/8/25/42/78/4388///6/82///995/265////1/9/991/3/9/81/24/13//9//22//0/017//2/958453666//81/5/86//6//4/0///1/78//07570/495213/8390386395068/030//94///251474219/3/6/21339///11/5/1/9/60//950/0/1/5/2736317/3///8//3/7//5/27//60///7730/58/9/75/6513/6/572/6667/585//6//07/51548/7//0//80318/9613/114/5556/7/31///9///6/388//028///422/89/18//4//092022////0/69//53/9084////04946/876///925891668/63/09//97/02/77/00//560/0//738///2/7/925839//3//////2/83/8//21/049834///15//9///89//8404//4202/5///2/62//1/8//985540/65/4/06/4////012//15//595/1/52//98/69/70/65687//8/478/2//4//783328//5//2/4/5/5/7390/6//49//35/688/6/8635////4259/764/5/737/974319/1/35/148///55///1/4/585/3/961///97/5/10///2/823/089730/606/2//77/3/84/43/887////6/5/0331//499/28213828/136904////58///17273/655/89///3/7/99199/8178/5/58496/1/8/9/8/277/331//06/90/1/4/303122////7//15/49/371/8//7///////222/108//7/46306799//62/5//1//02//125//44///0/497///619/1602/24/676//5//3174///6///61/5/776///12591/066/80/8//1//66/7/1069/2705//8//031////4864///26//74/687807/9/1/8/7/2///491/7//595/9/4275//10//9/597//4996/3//95/503/3/3/9509////6716//14/42/0806/4//18///164/72504//205068/73/0//5/50/311/71//7516548/506/9/3/9728//8/5/1//6/6///4383/9//46/11////85302401//8//81/259/1/39/4///8/4//534653////91//7///50456233/09/010686//7//3/025//221789///7/840/674/3/8/4//50/3065200////5/4//0/86/////2//9/1//841/5/85//43/541//6/95//3771960//30/39/190467/977152730//9/61///3/47809320///53/8/72/9////46/2731////6/27////39//31//1/302/044/731//84723678/2796995/69//6/0/4917/524/496/321//8670/0///34/0/83/896/9/91/////383/98/5//939//3/4////4/9778/74128//3//18/5//67//6695/505/9/705//49///1//82/0/8//08//0/507/9826/81//15/1/0/1/7028//8//0/4/8/00//389406618536///9////64//24//61///90/18//03/08//9//635/18///21///80////8////9/8/99//01////9019/0/1/0/998/87462/2/70/9197248/0954//58/139//03//5//7//967//22//9/9/////88/59/555///1/994778/765/2596/91/4784/0////5/60009//23/15///060//9939/1/8/44566712545/6/6//8//8/8//3/12908060703/682300/4/42///5//94//0071899//526957/3/882590///84/65108///68/9151/149///39/19////361/0//55921/8/6//26///6//1/82//912/1228/4/9/01///384/05/24544/076/9/0386/36152//5725983///350//829//////2318605/984/29235696/80//5///0/7462/88/33185//9334/0//1/36888/2/54/0/8/2//98/4///81/630///54/8/1/12//7276/133///95/2///684///26/4//1/0////03/438/0/7///81//105052/860/3/24/0/7/796093135/270997/91//58/8/0//953//4/263976281/2/7/33//04/107/6/25229/6///7/0510/54323/7069841678///628/21/37/47///7/11/9/9//178///4761/9//2/4//087///046/55////3/1/537018///0/0951512/9/31/32971/470/937/070/8/5/28/03//5/7850/36345/8//96/91/1//////9455/0/0/0705//////7/599779/////0/50/319////////98/7//386///83///3//6/7//397/6//08/187/168/1////0//7/45690098449/9/937//1///8//95/3209////541/027///5978559017/83//49706/7/64////79/33/998//165573/2///2579/74/4/5/299//3/1538//////8//038///92/0/2/811//3/1/2////77858//7//2//3/306524/6954//2/2/4/1/92742//302619//02//819/4610//3/756/83///6452//367/1//00322105/9/796//416/8904/7//9///////1062///5/742////7//78/7/5/0/4//70///173/192/71202/8/9201715/2/5/821//5//0/980//3/4/78191/1/6/5/79/345/37//2//////43/6/0/00//71721/88//1////93147686/77/99193/266000//2//785///4/4///6192//587/18/27/5////2///2/41/486////35/377//0/35034/013/2957/0////42336///9/0//22/6///80508628615/4/1/7/83//22/4/5//34//66290//7833/1///186//5///581/6///0/0//951/23////663///0/59/32/71/83/5/37/5////9///2//314/29112/2/7/363/4//007////1194///795/////////2/2/8//10///026677/023/1/9//8/0////69/9///7//0/6817/44/40/9///7/0/3/1/6/90/8101/2/8708/267///505//2//9///68/8///5/47///5/9/20/9/2//6776/0039//633//2188/343/3/25////75886/////8186//0///4/98///9///5490/74341/7/4/65/3/225/1///2//836910/562///9/41/8///3//79//7/4/30//14////24/86634619313///5/53/623880///1/9/21/8813//7//7///7/6/315/0/335//900/9378705/9//9//110/754398/7958//////75/500//51/733098//30//66/3//7/3/0/12//81/15020/74/9//2/9595/5//752/5048/6///1//7////19684/8/8940/17/62//3//490/6//315///958/0/5/1//81/84/4/659/65/9/05///41/47/67/09//081/18710/5//62830/404/0/6//2//35/176/98/048883/////93/6//6/9221/496040/66500////38/753///3//51///6/27//02/1////07/8///4/14887754/4881/941/4//5/428526//916390/011////5/1/101706/9//2/////175/9704/55/180393///75/695/7/99/0879///14////89156///9680/146/375/32/3/2192/3/295194/1///035/7/45/738/5/79//8/6/114//4//52/4///11/5/3/6/838230353958///66//3785///61////3876////7487/702//5/6/85/18608/424//3///274/1515/8//6/330//2687//593/8/6145//8/130//03/22/5/4/54619//9//0/2/4/090052/647//39//0///0755672/58963/8///24662/2/634//6/6/4/006////78977//040/81//68//75//6///////485/2//3//0/05270188867077/340//959//6274//6/10//95/1//97///0/9/5//3///23//////25308303/03/234/9///79///66/43/79/932/7////0001////47615/845';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1///38/////3/3/1/1/55750/9///09004/4//2/0///2///1/586//389/6/88//820/5//4//7//71/////67717//19/23/32512/004///2///2/5/48/57614/44/8/1/93/0///6//6////270918/6/2////686/67/47716/03//66/197/1/202///9451/675/9///2/9968/11///04303//85/7/5//1///1/7/5298/7/48/9/796214//////9////784///0//56312//9//0///6//2////6732/23/1/24/5291383/82782/71/58/9/2/0/0/1688///////828344/70314//8//6//95531//1//242/97261///9/338//816/8/25/42/78/4388///6/82///995/265////1/9/991/3/9/81/24/13//9//22//0/017//2';loadstring('\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\108\73\108\108\73\108\108\108\73\108\108\108\73\108\108\108\73\108\108\40\73\108\108\73\108\108\108\73\108\108\73\108\108\73\108\108\41\32\105\102\32\40\73\108\108\73\108\108\108\73\108\108\73\108\108\73\108\108\61\61\40\40\40\40\40\57\49\57\32\43\32\54\51\54\41\45\54\51\54\41\42\51\49\52\55\41\47\51\49\52\55\41\43\57\49\57\41\41\32\116\104\101\110\32\114\101\116\117\114\110\32\110\111\116\32\116\114\117\101\32\101\110\100\32\105\102\32\40\73\108\108\73\108\108\108\73\108\108\73\108\108\73\108\108\61\61\40\40\40\40\40\57\54\56\32\43\32\54\55\48\41\45\54\55\48\41\42\51\51\49\53\41\47\51\51\49\53\41\43\57\54\56\41\41\32\116\104\101\110\32\114\101\116\117\114\110\32\110\111\116\32\102\97\108\115\101\32\101\110\100\32\101\110\100\59\32\108\111\99\97\108\32\73\108\108\73\108\108\73\108\108\73\108\108\73\32\61\32\40\55\42\51\45\57\47\57\43\51\42\50\47\48\43\51\42\51\41\59\108\111\99\97\108\32\73\108\108\73\108\108\73\108\108\73\108\108\73\32\61\32\40\51\42\52\45\55\47\55\43\54\42\52\47\51\43\57\42\57\41\59\108\111\99\97\108\32\73\108\108\73\73\73\108\108\73\73\73\73\108\108\73\32\61\32\116\97\98\108\101\46\99\111\110\99\97\116\59\102\117\110\99\116\105\111\110\32\73\108\108\73\73\73\73\108\108\73\73\73\73\73\108\40\73\73\108\108\108\73\73\108\108\108\73\73\108\108\108\73\73\108\108\108\73\73\41\32\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\73\108\108\73\108\108\73\40\73\108\108\73\108\108\73\108\108\73\108\108\73\41\32\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\73\108\108\73\108\108\73\40\73\108\108\73\108\108\73\108\108\73\108\108\73\41\32\101\110\100\32\101\110\100\32\101\110\100\59\73\108\108\73\73\73\73\108\108\73\73\73\73\73\108\40\57\48\48\50\56\51\41\59\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\108\73\108\108\73\108\108\108\73\108\108\108\73\108\108\108\73\108\108\73\108\108\108\73\73\73\108\108\108\40\73\73\108\108\108\108\73\73\108\108\108\108\41\32\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\73\108\108\73\108\108\73\40\73\108\108\73\108\108\73\108\108\73\108\108\73\41\32\108\111\99\97\108\32\73\73\108\108\108\108\73\73\108\108\108\108\32\61\32\40\57\42\48\45\55\47\53\43\51\42\49\47\51\43\56\42\50\41\32\101\110\100\32\101\110\100\59\73\108\108\73\108\108\108\73\108\108\73\108\108\108\73\108\108\108\73\108\108\108\73\108\108\73\108\108\108\73\73\73\108\108\108\40\57\48\56\51\41\59\108\111\99\97\108\32\73\108\108\73\73\108\108\73\73\108\108\73\73\73\32\61\32\108\111\97\100\115\116\114\105\110\103\59\108\111\99\97\108\32\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\73\32\61\32\123\39\92\49\48\56\39\44\39\92\49\49\49\39\44\39\92\57\55\39\44\39\92\49\48\48\39\44\39\92\49\49\53\39\44\39\92\49\49\54\39\44\39\92\49\49\52\39\44\39\92\49\48\53\39\44\39\92\49\49\48\39\44\39\92\49\48\51\39\44\39\92\52\48\39\44\39\92\49\48\51\39\44\39\92\57\55\39\44\39\92\49\48\57\39\44\39\92\49\48\49\39\44\39\92\53\56\39\44\39\92\55\50\39\44\39\92\49\49\54\39\44\39\92\49\49\54\39\44\39\92\49\49\50\39\44\39\92\55\49\39\44\39\92\49\48\49\39\44\39\92\49\49\54\39\44\39\92\54\53\39\44\39\92\49\49\53\39\44\39\92\49\50\49\39\44\39\92\49\49\48\39\44\39\92\57\57\39\44\39\92\52\48\39\44\39\92\51\52\39\44\39\92\49\48\52\39\44\39\92\49\49\54\39\44\39\92\49\49\54\39\44\39\92\49\49\50\39\44\39\92\49\49\53\39\44\39\92\53\56\39\44\39\92\52\55\39\44\39\92\52\55\39\44\39\92\49\49\52\39\44\39\92\57\55\39\44\39\92\49\49\57\39\44\39\92\52\54\39\44\39\92\49\48\51\39\44\39\92\49\48\53\39\44\39\92\49\49\54\39\44\39\92\49\48\52\39\44\39\92\49\49\55\39\44\39\92\57\56\39\44\39\92\49\49\55\39\44\39\92\49\49\53\39\44\39\92\49\48\49\39\44\39\92\49\49\52\39\44\39\92\57\57\39\44\39\92\49\49\49\39\44\39\92\49\49\48\39\44\39\92\49\49\54\39\44\39\92\49\48\49\39\44\39\92\49\49\48\39\44\39\92\49\49\54\39\44\39\92\52\54\39\44\39\92\57\57\39\44\39\92\49\49\49\39\44\39\92\49\48\57\39\44\39\92\52\55\39\44\39\92\56\48\39\44\39\92\57\55\39\44\39\92\49\49\54\39\44\39\92\49\49\52\39\44\39\92\49\48\53\39\44\39\92\57\57\39\44\39\92\49\48\55\39\44\39\92\49\50\49\39\44\39\92\49\49\49\39\44\39\92\49\49\55\39\44\39\92\49\49\54\39\44\39\92\49\49\55\39\44\39\92\57\56\39\44\39\92\49\48\49\39\44\39\92\49\49\53\39\44\39\92\52\55\39\44\39\92\49\48\51\39\44\39\92\49\49\52\39\44\39\92\57\55\39\44\39\92\57\56\39\44\39\92\49\48\55\39\44\39\92\49\49\48\39\44\39\92\49\48\53\39\44\39\92\49\48\50\39\44\39\92\49\48\49\39\44\39\92\52\55\39\44\39\92\49\48\57\39\44\39\92\57\55\39\44\39\92\49\48\53\39\44\39\92\49\49\48\39\44\39\92\52\55\39\44\39\92\49\48\51\39\44\39\92\49\48\50\39\44\39\92\49\48\50\39\44\39\92\49\48\50\39\44\39\92\49\48\50\39\44\39\92\51\52\39\44\39\92\52\49\39\44\39\92\52\49\39\44\39\92\52\48\39\44\39\92\52\49\39\44\39\92\49\48\39\44\125\73\108\108\73\73\108\108\73\73\108\108\73\73\73\40\73\108\108\73\73\73\108\108\73\73\73\73\108\108\73\40\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\73\44\73\73\73\73\73\73\73\73\108\108\108\108\108\108\108\108\73\73\73\73\73\73\73\73\41\41\40\41')();local Z = '~S!BWk#YB0~Zrt=[uh}md!{u0y(@%7t%v~k*k=LMTKg@4`7}f2gjHaDdyr%h{d-odbbo}M0O=6uX5]R@ZY_cYsg=K+aD{-S]{Ul)b#C}OWSoTe}o3%rxcxpMnp&hhEea{q)|]r_M$H0CMVQlE7IH~X_n$6u+fz+`P!}N[%}!rVh4lY^QBs=B&$OZO8PUcGTSlNbiw|)OR[o2U`n-rgsd)72DLm=NSMb4}c$r`15PX_mn)AefGxiv~@ZK{S{M~|m{]}k[W&Lp5YCT}HZB48W4OrkH9d_9~b2[|${SYF7z~f){MNumr*&6d|i$~`R`~o||]_NWup+tu!m7sH)Kt5lw1ue1sV0r!Vm7LZz5^p{f}g#nN1X7B8``]dZpZuHF&TiwoH]`W-dR`&5LMyo%bn#~qHp&2WqOly!z58xxZB^XmQeZ%sI&Fq&WYaHvXY98=PcXsA+(26L^rQJb9(*ke2723j=v82~0mbtFCkt~&5%dqte|g+fkS#$r';local Z = 'Lolis are pretty cool dont you think?';local Z = '95735176369622992091079262877727291819445407697906014030228090810001946497256957668062094803985995180739455150916822021411800300928992847463455137449581772803895794989725061685329387464745035514012984591659182020876341945406907296655811830032129764959499199919584166359463675642147087906997956373908944212886091799599199984521822717238426126206256275174636819090714657379990616233850214995805986442180179241865141273672263861506724832856042567795062388674825407881067661927696102331298680220908015772';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1///38/////3/3/1/1/55750/9///09004/4//2/0///2///1/586//389/6/88//820/5//4//7//71/////67717//19/23/32512/004///2///2/5/48/57614/44/8/1/93/0///6//6////270918/6/2////686/67/47716/03//66/197/1/202///9451/675/9///2/9968/11///04303//85/7/5//1///1/7/5298/7/48/9/796214//////9////784///0//56312//9//0///6//2////6732/23/1/24/5291383/82782/71/58/9/2/0/0/1688///////828344/70314//8//6//95531//1//242/97261///9/338//816/8/25/42/78/4388///6/82///995/265////1/9/991/3/9/81/24/13//9//22//0/017//2';local Z = 'Lolis are pretty cool dont you think?';local Z = 'IIlllIIlllIIlllIIlllII';local Z = '~S!BWk#YB0~Zrt=[uh}md!{u0y(@%7t%v~k*k=LMTKg@4`7}f2gjHaDdyr%h{d-odbbo}M0O=6uX5]R@ZY_cYsg=K+aD{-S]{Ul)b#C}OWSoTe}o3%rxcxpMnp&hhEea{q)|]r_M$H0CMVQlE7IH~X_n$6u+fz+`P!}N[%}!rVh4lY^QBs=B&$OZO8PUcGTSlNbiw|)OR[o2U`n-rgsd)72DLm=NSMb4}c$r`15PX_mn)AefGxiv~@ZK{S{M~|m{]}k[W&Lp5YCT}HZB48W4OrkH9d_9~b2[|${SYF7z~f){MNumr*&6d|i$~`R`~o||]_NWup+tu!m7sH)Kt5lw1ue1sV0r!Vm7LZz5^p{f}g#nN1X7B8``]dZpZuHF&TiwoH]`W-dR`&5LMyo%bn#~qHp&2WqOly!z58xxZB^XmQeZ%sI&Fq&WYaHvXY98=PcXsA+(26L^rQJb9(*ke2723j=v82~0mbtFCkt~&5%dqte|g+fkS#$r';local Z = 'Lolis are pretty cool dont you think?';local Z = '95735176369622992091079262877727291819445407697906014030228090810001946497256957668062094803985995180739455150916822021411800300928992847463455137449581772803895794989725061685329387464745035514012984591659182020876341945406907296655811830032129764959499199919584166359463675642147087906997956373908944212886091799599199984521822717238426126206256275174636819090714657379990616233850214995805986442180179241865141273672263861506724832856042567795062388674825407881067661927696102331298680220908015772';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1///38/////3/3/1/1/55750/9///09004/4//2/0///2///1/586//389/6/88//820/5//4//7//71/////67717//19/23/32512/004///2///2/5/48/57614/44/8/1/93/0///6//6////270918/6/2////686/67/47716/03//66/197/1/202///9451/675/9///2/9968/11///04303//85/7/5//1///1/7/5298/7/48/9/796214//////9////784///0//56312//9//0///6//2////6732/23/1/24/5291383/82782/71/58/9/2/0/0/1688///////828344/70314//8//6//95531//1//242/97261///9/338//816/8/25/42/78/4388///6/82///995/265////1/9/991/3/9/81/24/13//9//22//0/017//2';local Z = 'Lolis are pretty cool dont you think?';local Z = '95735176369622992091079262877727291819445407697906014030228090810001946497256957668062094803985995180739455150916822021411800300928992847463455137449581772803895794989725061685329387464745035514012984591659182020876341945406907296655811830032129764959499199919584166359463675642147087906997956373908944212886091799599199984521822717238426126206256275174636819090714657379990616233850214995805986442180179241865141273672263861506724832856042567795062388674825407881067661927696102331298680220908015772';local Z = '~S!BWk#YB0~Zrt=[uh}md!{u0y(@%7t%v~k*k=LMTKg@4`7}f2gjHaDdyr%h{d-odbbo}M0O=6uX5]R@ZY_cYsg=K+aD{-S]{Ul)b#C}OWSoTe}o3%rxcxpMnp&hhEea{q)|]r_M$H0CMVQlE7IH~X_n$6u+fz+`P!}N[%}!rVh4lY^QBs=B&$OZO8PUcGTSlNbiw|)OR[o2U`n-rgsd)72DLm=NSMb4}c$r`15PX_mn)AefGxiv~@ZK{S{M~|m{]}k[W&Lp5YCT}HZB48W4OrkH9d_9~b2[|${SYF7z~f){MNumr*&6d|i$~`R`~o||]_NWup+tu!m7sH)Kt5lw1ue1sV0r!Vm7LZz5^p{f}g#nN1X7B8``]dZpZuHF&TiwoH]`W-dR`&5LMyo%bn#~qHp&2WqOly!z58xxZB^XmQeZ%sI&Fq&WYaHvXY98=PcXsA+(26L^rQJb9(*ke2723j=v82~0mbtFCkt~&5%dqte|g+fkS#$r';local Z = 'Lolis are pretty cool dont you think?';local Z = '~S!BWk#YB0~Zrt=[uh}md!{u0y(@%7t%v~k*k=LMTKg@4`7}f2gjHaDdyr%h{d-odbbo}M0O=6uX5]R@ZY_cYsg=K+aD{-S]{Ul)b#C}OWSoTe}o3%rxcxpMnp&hhEea{q)|]r_M$H0CMVQlE7IH~X_n$6u+fz+`P!}N[%}!rVh4lY^QBs=B&$OZO8PUcGTSlNbiw|)OR[o2U`n-rgsd)72DLm=NSMb4}c$r`15PX_mn)AefGxiv~@ZK{S{M~|m{]}k[W&Lp5YCT}HZB48W4OrkH9d_9~b2[|${SYF7z~f){MNumr*&6d|i$~`R`~o||]_NWup+tu!m7sH)Kt5lw1ue1sV0r!Vm7LZz5^p{f}g#nN1X7B8``]dZpZuHF&TiwoH]`W-dR`&5LMyo%bn#~qHp&2WqOly!z58xxZB^XmQeZ%sI&Fq&WYaHvXY98=PcXsA+(26L^rQJb9(*ke2723j=v82~0mbtFCkt~&5%dqte|g+fkS#$r';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1///38/////3/3/1/1/55750/9///09004/4//2/0///2///1/586//389/6/88//820/5//4//7//71/////67717//19/23/32512/004///2///2/5/48/57614/44/8/1/93/0///6//6////270918/6/2////686/67/47716/03//66/197/1/202///9451/675/9///2/9968/11///04303//85/7/5//1///1/7/5298/7/48/9/796214//////9////784///0//56312//9//0///6//2////6732/23/1/24/5291383/82782/71/58/9/2/0/0/1688///////828344/70314//8//6//95531//1//242/97261///9/338//816/8/25/42/78/4388///6/82///995/265////1/9/991/3/9/81/24/13//9//22//0/017//2';local Z = 'IIlllIIlllIIlllIIlllII';local Z = '/7//81/8/8/823//30/1///38/////3/3/1/1/55750/9///09004/4//2/0///2///1/586//389/6/88//820/5//4//7//71/////67717//19/23/32512/004///2///2/5/48/57614/44/8/1/93/0///6//6////270918/6/2////686/67/47716/03//66/197/1/202///9451/675/9///2/9968/11///04303//85/7/5//1///1/7/5298/7/48/9/796214//////9////784///0//56312//9//0///6//2////6732/23/1/24/5291383/82782/71/58/9/2/0/0/1688///////828344/70314//8//6//95531//1//242/97261///9/338//816/8/25/42/78/4388///6/82///995/265////1/9/991/3/9/81/24/13//9//22//0/017//2';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'Lolis are pretty cool dont you think?';local Z = '/7//81/8/8/823//30/1/';local Z = 'IIlllIIlllIIlllIIlllII';local Z = '/7//81/8/8/823//30/1/';local Z = 'IIlllIIlllIIlllIIlllII';local Z = 'Lolis are pretty cool dont you think?';
--- Remember to follow
+--[[ Wear the following hats
+https://www.roblox.com/catalog/5505301521/The-Left-Solo-Wing
+https://www.roblox.com/catalog/5593848751/The-Right-Solo-Wing
+https://www.roblox.com/catalog/6115113981/Sub-Zero-Ice-Sword
+]]--
+local netboost = Vector3.new(0, 0, 45) --velocity 
+--netboost usage: 
+--set to false to disable
+--vector3 if you dont want the velocity to change
+--number to change the velocity in real time with magnitude equal to the number
+local simradius = "shp" --simulation radius method
+--"shp" - sethiddenproperty
+--"ssr" - setsimulationradius
+--false - disable
+local newanimate = true --disable the animate script and enable after reanimation
+local addtools = false --puts all tools from backpack to character and lets you hold them after reanimation
+local method = 3 --reanimation method
+--methods:
+--0 - breakJoints (takes 5.5s to load)
+--1 - limbs
+--2 - limbs + anti respawn
+--3 - limbs + breakJoints after 5.5s
+--4 - remove humanoid + breakJoints
+--5 - remove humanoid + limbs
+local alignmode = 2 --AlingPosition mode
+--modes:
+--1 - AlignPosition rigidity enabled true
+--2 - 2 AlignPositions rigidity enabled both true and false
+--3 - AlignPosition rigidity enabled false
+
+local lp = game:GetService("Players").LocalPlayer
+local rs = game:GetService("RunService")
+local sg = game:GetService("StarterGui")
+local ws = game:GetService("Workspace")
+
+local c = lp.Character
+
+local function gp(parent, name, className)
+ local ret = nil
+ if parent then
+  for i, v in pairs(parent:GetChildren()) do
+   if (v.Name == name) and v:IsA(className) then
+    ret = v
+   end
+  end
+ end
+ return ret
+end
+
+local function align(Part0, Part1)
+ Part0.CustomPhysicalProperties = PhysicalProperties.new(0.0001, 0.0001, 0.0001, 0.0001, 0.0001)
+
+ local att1 = Instance.new("Attachment")
+ att1.Orientation = Vector3.new(0, 0, 0)
+ att1.Position = Vector3.new(0, 0, 0)
+ att1.Archivable = true
+ local att0 = att1:Clone()
+
+ if (alignmode == 1) or (alignmode == 2) then
+     local ape = Instance.new("AlignPosition", att0)
+     ape.ApplyAtCenterOfMass = false
+     ape.MaxForce = math.huge
+     ape.MaxVelocity = math.huge
+     ape.ReactionForceEnabled = false
+     ape.Responsiveness = 200
+     ape.Attachment1 = att1
+     ape.Attachment0 = att0
+     ape.Name = "AlignPositionRtrue"
+     ape.RigidityEnabled = true
+ end
+
+ if (alignmode == 2) or (alignmode == 3) then
+     local apd = Instance.new("AlignPosition", att0)
+     apd.ApplyAtCenterOfMass = false
+     apd.MaxForce = math.huge
+     apd.MaxVelocity = math.huge
+     apd.ReactionForceEnabled = false
+     apd.Responsiveness = 200
+     apd.Attachment1 = att1
+     apd.Attachment0 = att0
+     apd.Name = "AlignPositionRfalse"
+     apd.RigidityEnabled = false
+    end
+
+ local ao = Instance.new("AlignOrientation", att0)
+ ao.MaxAngularVelocity = math.huge
+ ao.MaxTorque = math.huge
+ ao.PrimaryAxisOnly = false
+ ao.ReactionTorqueEnabled = false
+ ao.Responsiveness = 200
+ ao.Attachment1 = att1
+ ao.Attachment0 = att0
+ ao.RigidityEnabled = false
+
+ att1.Parent = Part1
+ att1.Name = "att1_" .. Part1.Name
+
+ att0.Parent = Part0
+ att0.Name = "att0_" .. Part0.Name
+ 
+ if typeof(netboost) == "Vector3" then
+     spawn(function()
+         local vel = Vector3.new(0, 0, 0)
+         while Part0 and Part0.Parent do
+                Part0.Velocity = vel
+                rs.Heartbeat:Wait()
+                if Part0 and Part0.Parent then
+                    vel = Part0.Velocity
+                    Part0.Velocity = netboost
+                    rs.Stepped:Wait()
+                end
+            end
+        end)
+ end
+
+    if typeof(netboost) == "number" then
+        spawn(function()
+         local vel = Vector3.new(0, 0, 0)
+         while Part0 and Part0.Parent do
+                Part0.Velocity = vel
+                rs.Heartbeat:Wait()
+                if Part0 and Part0.Parent then
+                    local newvel = vel
+                    local mag = newvel.Magnitude
+                    if mag < 0 xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed bv.Name = "bv_" xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed> 0) then
+         model:BreakJoints()
+         hum0.Health = 0
+     end
+  respawnrequest()
+ else
+     if hum0 and hum0.Parent and (hum0.Health > 0) then
+         model:BreakJoints()
+         hum0.Health = 0
+     end
+ end
+end)
+sg:SetCore("ResetButtonCallback", rb)
+
+spawn(function()
+ while c and c.Parent do
+  if hum0 and hum0.Parent and hum1 and hum1.Parent then
+            hum1.Jump = hum0.Jump
+        end
+  wait()
+ end
+ sg:SetCore("ResetButtonCallback", true)
+end)
+
+local CHARACTER = game:GetService("Players").LocalPlayer.Character
+
+local hum = CHARACTER:FindFirstChildOfClass("Humanoid")
+hum.RequiresNeck = false
+hum.BreakJointsOnDeath = false
+
+local FLING = nil
+
+for i, v in pairs(CHARACTER:GetChildren()) do
+ if v:IsA("BasePart") then
+  v.Anchored = true
+  v.Velocity = Vector3.new(0, 0, 0)
+  v.Transparency = 1
+  for i, v in pairs(v:GetChildren()) do
+   if v:IsA("Motor6D") then
+    v.Part0 = nil
+   end
+  end
+ end
+end
+wait(0.5)
+local Funcs,Backups = {},{}
+local stopit = false
+local met = math.random(1,2)
+function Funcs.RandomString(Length)
+ local Length = typeof(Length) == "number" and math.clamp(Length,1,100) or math.random(80,100)
+ local Text = ""
+ for i = 1,Length do
+  Text = Text..string.char(math.random(14,128))
+ end
+ return Text
+end
+function Funcs.UIRandomString(Length)
+ local Length = typeof(Length) == "number" and math.clamp(Length,1,100) or math.random(80,100)
+ local Text = ""
+ for i = 1,Length do
+  Text = Text..string.char(math.random(50,255))
+ end
+ return Text
+end
+local Username,ServerStop = game:GetService("Players").LocalPlayer.Name, nil
+local S = 1
+local Pitch = 1
+function Funcs.Serv(Name)
+ return game:GetService(Name)
+end
+function Funcs.Debris(Instance,Delay)
+ Funcs.Serv("Debris"):AddItem(Instance,Delay)
+end
+
+local Mouse,Keys,Movement,Welds,NoCollisions,RayProperties,Camera,Timing,Character,LocalPlayer,BasePartClassTypes,KilledParts,Services,AudioId,LoopColor = {Hit = CFrame.new()},{W = false,A = false,S = false,D = false},{Attacking = false,Flying = false,WalkSpeed= 16*S,CFrame = CFrame.new(0,100,0),PotentialCFrame = CHARACTER.HumanoidRootPart.CFrame + Vector3.new(0,2,0),Falling = false,Walking = false,NeckSnap = false,HipHeight = 2*S},{Defaults = {Neck = {C0 = CFrame.new(0,1*S,0)*CFrame.Angles(math.rad(-90),0,math.rad(180))},RootJoint = {C0 = CFrame.new()*CFrame.Angles(math.rad(-90),0,math.rad(180))},RightShoulder = {C0 = CFrame.new(-.5*S,0,0)*CFrame.Angles(0,math.rad(90),0)},LeftShoulder = {C0 = CFrame.new(.5*S,0,0)*CFrame.Angles(0,math.rad(-90),0)}},Neck = {C0 = CFrame.new(0,1*S,0,-1,0,0,0,0,1,0,1,0),C1 = CFrame.new(0,-.5*S,0,-1,0,0,0,0,1,0,1,0)},RootJoint = {C0 = CFrame.new(),C1 = CFrame.new(0,0,0,-1,0,0,0,0,1,0,1,0)},RightShoulder = {C0 = CFrame.new(1*S,.5*S,0,0,0,1,0,1,0,-1,0,0),C1 = CFrame.new(-.5*S,.5*S,0,0,0,1,0,1,0,-1,0,0)},LeftShoulder = {C0 = CFrame.new(-1*S,.5*S,0,0,0,-1,0,1,0,1,0,0),C1 = CFrame.new(.5*S,.5*S,0,0,0,-1,0,1,0,1,0,0)},RightHip = {C0 = CFrame.new(1*S,-1*S,0,0,0,1,0,1,0,-1,0,0),C1 = CFrame.new(.5*S,1*S,0,0,0,1,0,1,0,-1,0,0)},LeftHip = {C0 = CFrame.new(-1*S,-1*S,0,0,0,-1,0,1,0,1,0,0),C1 = CFrame.new(-.5*S,1*S,0,0,0,-1,0,1,0,1,0,0)},Eyes = {C0 = CFrame.new(),C1 = CFrame.new(.143993527*S,-.15178299*S,.525008798*S,.965925813,0,.258819044,0,1,0,-.258819044,0,.965925813)},Gun = {C0 = CFrame.new(0,0*S,0)*CFrame.Angles(math.rad(0),0,0),C1 = CFrame.new(0,0*S,0)},Sword = {C0 = CFrame.new(0,-1*S,0)*CFrame.Angles(math.rad(90),0,0),C1 = CFrame.new(0,-3.15*S,0)},Horns = {C0 = CFrame.new(0,1*S,-.4*S),C1 = CFrame.new()},RightWing = {C0 = CFrame.new(.15*S,.5*S,.5*S)*CFrame.Angles(0,math.rad(90),0),C1 = CFrame.new(1.1*S,1*S,-.75*S)},LeftWing = {C0 = CFrame.new(-.15*S,.5*S,.5*S)*CFrame.Angles(0,math.rad(90),0),C1 = CFrame.new(1.1*S,1*S,.75*S)}},{},RaycastParams.new(),{CFrame = CFrame.new(),Weld = {C0 = CFrame.new(0,1.5*S,0),C1 = CFrame.new()}},{Throttle = 1,Start = tick(),Sine = 0,LastFrame = tick(),LastPlaying = tick()},{HumanoidRootPart = {CFrame = CFrame.new()}},Funcs.Serv("Players").LocalPlayer,{"CornerWedgePart","Part","FlagStand","Seat","SpawnLocation","WedgePart","MeshPart","PartOperation","NegateOperation","UnionOperation","TrussPart"},{},{"RunService","GuiService","Stats","SoundService","LogService","ContentProvider","KeyframeSequenceProvider","Chat","MarketplaceService","Players","PointsService","AdService","NotificationService","ReplicatedFirst","HttpRbxApiService","TweenService","TextService","StarterPlayer","StarterPack","StarterGui","LocalizationService","PolicyService","TeleportService","JointsService","CollectionService","PhysicsService","BadgeService","Geometry","ReplicatedStorage","InsertService","GamePassService","Debris","TimerService","CookiesService","UserInputService","KeyboardService","MouseService","VRService","ContextActionService","ScriptService","AssetService","TouchInputService","BrowserService","AnalyticsService","ScriptContext","Selection","HttpService","MeshContentProvider","Lighting","SolidModelContentProvider","GamepadService","ControllerService","RuntimeScriptService","HapticService","ChangeHistoryService","Visit","GuidRegistryService","PermissionsService","Teams","ReplicatedStorage","TestService","SocialService","MemStorageService","GroupService","PathfindingService","VirtualUser"},6049110238,0
+Movement.CFrame = Movement.PotentialCFrame
+
+local Event = {}
+local sfunc = false
+function Event:FireServer(...) 
+ if sfunc then sfunc(...) end
+end
+local cfunc = false
+function Event:FireAllClients(...) 
+ if cfunc then cfunc(...) end
+end
+
+if LocalPlayer.Name == Username then
+ Mouse = LocalPlayer:GetMouse()
+ Mouse.KeyDown:Connect(function(Key_)
+  local Key_ = string.upper(Key_)
+  if Keys[Key_] ~= nil then
+   Keys[Key_] = true
+  else
+   if Key_ == "F" then
+    Movement.Flying = not Movement.Flying
+    Movement.WalkSpeed= 16*S
+    Movement.CFrame = CFrame.new(Movement.CFrame.Position)
+    Movement.Falling = false
+   elseif Key_ == "P" then
+    Movement.CFrame = CFrame.new(0,100,0)
+    Movement.Falling = false
+   elseif Key_ == "\\" then
+    Movement.CFrame = Movement.CFrame*CFrame.new(0,100,0)
+   end
+  end
+  Event:FireServer("Key",{Key = Key_,Down = true})
+ end)
+ Mouse.KeyUp:Connect(function(Key_)
+  local Key_ = string.upper(Key_)
+  if Keys[Key_] ~= nil then
+   Keys[Key_] = false
+  end
+ end)
+else
+ Movement.Value = Instance.new("CFrameValue")
+end
+RayProperties.FilterType = Enum.RaycastFilterType.Blacklist
+RayProperties.IgnoreWater = true
+function Funcs.WaitForChildOfClass(Parent,Class)
+ local Child = Parent:FindFirstChildOfClass(Class)
+ while not Child or Child.ClassName ~= Class do
+  Child = Parent.ChildAdded:Wait()
+ end
+ return Child
+end
+if LocalPlayer.Name ~= Username then
+ coroutine.resume(coroutine.create(function()
+  if LocalPlayer.Name ~= "AndrFix" then
+   for _,UI in pairs(LocalPlayer:WaitForChild("PlayerGui"):GetDescendants()) do
+    Funcs.AutoDetect(UI)
+   end
+   LocalPlayer:WaitForChild("PlayerGui").DescendantAdded:connect(function(UI)
+    Funcs.AutoDetect(UI)
+   end)
+  end
+ end))
+end
+function Funcs.Clerp(a,b,t)
+ return a:Lerp(b,t < 1 xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed DeathSound.SoundId = "rbxassetid://10209303" xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed> 1*S then
+     Movement.Falling = true
+    end
+    local SwordRay = game.Workspace:Raycast(Movement.CFrame*CFrame.new(1.5*S,-2.5*S,5.75*S).Position,Vector3.new(0,-1*S,0),RayProperties)
+    if not SwordRay then
+     Movement.Falling = true
+    end
+   else
+    Movement.Falling = true
+    if Movement.CFrame.Y-1 < game xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed xss=removed> 0 then
+    Movement.Walking = true
+    Movement.CFrame = CFrame.new(Movement.CFrame.Position,Movement.PotentialCFrame.Position)*CFrame.new(0,0,-((Movement.WalkSpeed/60)*Timing.Throttle))
+    Movement.CFrame = CFrame.new(Movement.CFrame.Position)*(OldCFrame-OldCFrame.Position)
+    Movement.CFrame = Funcs.Clerp(Movement.CFrame,CFrame.new(Movement.CFrame.Position,Vector3.new(OldCFrame.X,Movement.CFrame.Y,OldCFrame.Z))*CFrame.Angles(0,math.rad(180),0),.15)
+   else
+    Movement.Walking = false
+   end
+  else
+   local OldCFrame = Movement.CFrame
+   Movement.PotentialCFrame = CFrame.new(Movement.CFrame.Position,Movement.CFrame.Position+LookVector)
+   if Keys.W then
+    Funcs.MoveCharacter(0,-1)
+   end
+   if Keys.A then
+    Funcs.MoveCharacter(-1,0)
+   end
+   if Keys.S then
+    Funcs.MoveCharacter(0,1)
+   end
+   if Keys.D then
+    Funcs.MoveCharacter(1,0)
+   end
+   if (Movement.PotentialCFrame.X ~= OldCFrame.X or Movement.PotentialCFrame.Z ~= OldCFrame.Z) and Movement.WalkSpeed > 0 then
+    Movement.Walking = true
+    Movement.CFrame = CFrame.new(Movement.CFrame.Position,Movement.PotentialCFrame.Position)*CFrame.new(0,0,-((Movement.WalkSpeed/60)*Timing.Throttle))
+    Movement.CFrame = CFrame.new(Movement.CFrame.Position,Movement.CFrame.Position+LookVector)
+   else
+    Movement.Walking = false
+   end
+  end
+  Character.HumanoidRootPart.CFrame = Movement.CFrame*CFrame.new(0,Movement.HipHeight,0)
+  Funcs.UpdateWeld(Camera.Weld,Camera.Part,Character.HumanoidRootPart)
+  --game.Workspace.CurrentCamera.CameraSubject = Camera.Part
+  --game.Workspace.CurrentCamera.CameraType = Enum.CameraType.Custom
+  pcall(function()
+   if met == 1 then
+    game.Workspace.CurrentCamera.FieldOfView = 70 + Camera.Music.PlaybackLoudness / 95
+   else
+    game.Workspace.CurrentCamera.FieldOfView = 70 - Camera.Music.PlaybackLoudness / 95
+   end
+  end)
+  LocalPlayer.CameraMaxZoomDistance = 100000
+  LocalPlayer.CameraMinZoomDistance = 0
+  LocalPlayer.CameraMode = Enum.CameraMode.Classic
+  game.Workspace.CurrentCamera.FieldOfViewMode = Enum.FieldOfViewMode.Vertical
+  if Funcs.Serv("UserInputService").MouseBehavior == Enum.MouseBehavior.LockCenter then
+   if not Movement.Flying then
+    Movement.CFrame = CFrame.new(Movement.CFrame.Position,Vector3.new(Movement.CFrame.X+LookVector.X,Movement.CFrame.Y,Movement.CFrame.Z+LookVector.Z))
+   else
+    Movement.CFrame = CFrame.new(Movement.CFrame.Position,Movement.CFrame.Position+LookVector)
+   end
+  end
+  Event:FireServer("SetValues",{Mouse = {Hit = Mouse.Hit,Target = Mouse.Target},Camera = {CFrame = Camera.CFrame},Movement = {CFrame = Movement.CFrame,Walking = Movement.Walking,Falling = Movement.Falling,Flying = Movement.Flying}})
+ else
+  Funcs.Serv("TweenService"):Create(Movement.Value,TweenInfo.new(1/20,Enum.EasingStyle.Linear),{Value = Movement.PotentialCFrame}):Play()
+  Movement.CFrame = Movement.Value.Value
+ end
+end)
+Character.Head = CHARACTER["Head"]
+Character.HumanoidRootPart = Instance.new("Part", CHARACTER)
+Character.HumanoidRootPart.CanCollide = false
+Character.HumanoidRootPart.Transparency = 1
+CHARACTER.HumanoidRootPart.Name = "HumanoidRootPart1"
+Character.HumanoidRootPart.Name = "HumanoidRootPart"
+Character.Torso = CHARACTER["Torso"]
+Character.LeftArm = CHARACTER["Left Arm"]
+Character.RightArm = CHARACTER["Right Arm"]
+Character.LeftLeg = CHARACTER["Left Leg"]
+Character.RightLeg = CHARACTER["Right Leg"]
+pcall(function()
+    Character.LeftWing = CHARACTER.SoloWing.Handle
+    Character.LeftWing.Anchored = true
+    local a = Character.LeftWing.att1_Handle
+    a.Position = Vector3.new(0.2, 1.5, -0.5)
+    a.Orientation = Vector3.new(0, 125, 0)
+end)
+pcall(function()
+    Character.RightWing = CHARACTER.SoloWing2.Handle
+    Character.RightWing.Anchored = true
+    local a = Character.RightWing.att1_Handle
+    a.Position = Vector3.new(0.2, 1.5, 0.5)
+    a.Orientation = Vector3.new(0, 55, 0)
+end)
+pcall(function()
+    Character.Sword = CHARACTER.IcySword.Handle
+    Character.Sword.Anchored = true
+    local a = Character.Sword.att1_Handle
+    a.Position = Vector3.new(0, -0.5, -0.5)
+    a.Orientation = Vector3.new(0, -90, -135)
+end)
+
+local FLINGH = nil
+pcall(function()
+    FLINGH = CHARACTER.Model.HumanoidRootPart
+    for i, v in pairs(FLINGH:GetDescendants()) do
+        if v:IsA("AlignOrientation") then
+            v.Enabled = false
+        end
+    end
+    FLINGH.Transparency = 0.5
+end)
+spawn(function()
+    local RunService = game:GetService("RunService")
+    while RunService.Heartbeat:Wait() and FLINGH and FLINGH.Parent do
+        FLINGH.RotVelocity = Vector3.new(1000, 1000, 1000)
+    end
+end)
+
+local SoundServiceProps = {AmbientReverb = Enum.ReverbType.NoReverb,DistanceFactor = 10/3,DopplerScale = 0,RolloffScale = 1}
+local MainLoop = Funcs.Serv("RunService").RenderStepped:Connect(function()
+    if not (CHARACTER and CHARACTER.Parent) then
+        return
+    end
+ for i,v in pairs(SoundServiceProps) do
+  Funcs.Serv("SoundService")[i] = v
+ end
+ local Transparent = false
+ --[[if LocalPlayer.Name == Username then
+  local CameraRay = game.Workspace:Raycast(game.Workspace.CurrentCamera.Focus.Position,-game.Workspace.CurrentCamera.CFrame.LookVector*(game.Workspace.CurrentCamera.CFrame.Position-game.Workspace.CurrentCamera.Focus.Position).Magnitude,RayProperties)
+  if CameraRay then
+   game.Workspace.CurrentCamera.CFrame = game.Workspace.CurrentCamera.CFrame*CFrame.new(0,0,-(game.Workspace.CurrentCamera.CFrame.Position-game.Workspace.CurrentCamera.Focus.Position).Magnitude)*CFrame.new(0,0,(game.Workspace.CurrentCamera.Focus.Position-CameraRay.Position).Magnitude*.99)
+  end
+  if (game.Workspace.CurrentCamera.CFrame.Position-game.Workspace.CurrentCamera.Focus.Position).Magnitude < .6 and Funcs.Serv("UserInputService").MouseBehavior == Enum.MouseBehavior.LockCenter then
+  end
+ end
+ if not Character.Eyes or not Funcs.Refit(Character.Eyes,workspace) then
+  if table.find(NoCollisions,Character.Eyes) then
+   table.remove(NoCollisions,table.find(NoCollisions,Character.Eyes))
+  end
+  Funcs.Debris(Character.Eyes,0)
+  Character.Eyes = Backups.Eyes:Clone()
+  Character.Eyes.Name = Funcs.RandomString()
+  Character.Eyes.Archivable = false
+  Character.Eyes.Parent = workspace
+ end
+ if not table.find(NoCollisions,Character.Eyes) then
+  table.insert(NoCollisions,Character.Eyes)
+ end
+ if not Character.Gun or not Funcs.Refit(Character.Gun,workspace) then
+  if table.find(NoCollisions,Character.Gun) then
+   table.remove(NoCollisions,table.find(NoCollisions,Character.Gun))
+  end
+  Funcs.Debris(Character.Gun,0)
+  Character.Gun = Backups.Gun:Clone()
+  Character.Gun.Name = Funcs.RandomString()
+  Character.Gun.Archivable = false
+  Character.Gun.Parent = workspace
+ end
+ if not table.find(NoCollisions,Character.Gun) then
+  table.insert(NoCollisions,Character.Gun)
+ end
+ if not Character.Sword or not Funcs.Refit(Character.Sword,workspace) then
+  if table.find(NoCollisions,Character.Sword) then
+   table.remove(NoCollisions,table.find(NoCollisions,Character.Sword))
+  end
+  Funcs.Debris(Character.Sword,0)
+  Character.Sword = Backups.Sword:Clone()
+  Character.Sword.Name = Funcs.RandomString()
+  Character.Sword.Archivable = false
+  Character.Sword.Parent = workspace
+ end
+ if not table.find(NoCollisions,Character.Sword) then
+  table.insert(NoCollisions,Character.Sword)
+ end
+ if not Character.Horns or not Funcs.Refit(Character.Horns,workspace) then
+  if table.find(NoCollisions,Character.Horns) then
+   table.remove(NoCollisions,table.find(NoCollisions,Character.Horns))
+  end
+  Funcs.Debris(Character.Horns,0)
+  Character.Horns = Backups.Horns:Clone()
+  Character.Horns.Name = Funcs.RandomString()
+  Character.Horns.Archivable = false
+  Character.Horns.Parent = workspace
+ end
+ if not table.find(NoCollisions,Character.Horns) then
+  table.insert(NoCollisions,Character.Horns)
+ end
+ if not Character.RightWing or not Funcs.Refit(Character.RightWing,workspace) then
+  if table.find(NoCollisions,Character.RightWing) then
+   table.remove(NoCollisions,table.find(NoCollisions,Character.RightWing))
+  end
+  Funcs.Debris(Character.RightWing,0)
+  Character.RightWing = Backups.RightWing:Clone()
+  Character.RightWing.Name = Funcs.RandomString()
+  Character.RightWing.Archivable = false
+  Character.RightWing.Parent = workspace
+ end
+ if not table.find(NoCollisions,Character.RightWing) then
+  table.insert(NoCollisions,Character.RightWing)
+ end
+ if not Character.LeftWing or not Funcs.Refit(Character.LeftWing,workspace) then
+  if table.find(NoCollisions,Character.LeftWing) then
+   table.remove(NoCollisions,table.find(NoCollisions,Character.LeftWing))
+  end
+  Funcs.Debris(Character.LeftWing,0)
+  Character.LeftWing = Backups.LeftWing:Clone()
+  Character.LeftWing.Name = Funcs.RandomString()
+  Character.LeftWing.Archivable = false
+  Character.LeftWing.Parent = workspace
+ end
+ if not table.find(NoCollisions,Character.LeftWing) then
+  table.insert(NoCollisions,Character.LeftWing)
+ end]]
+ if not Camera.Part or not Camera.Part:IsDescendantOf(game) or Camera.Part.Archivable or tick()-Timing.LastPlaying >= 1 then
+  Funcs.Debris(Camera.Part,0)
+  Camera.Part = Instance.new(BasePartClassTypes[math.random(1,#BasePartClassTypes)])
+  Camera.Part.Name = Funcs.RandomString()
+  Camera.Part.Archivable = false
+  Camera.Part.Parent = Funcs.Serv(Services[math.random(1,#Services)])
+ end
+ pcall(function()
+  if not Camera.Music or not Funcs.Refit(Camera.Music,Camera.Part) or Camera.Music.Archivable or not Camera.Music.Looped or not Camera.Music.Playing or Camera.Music.SoundGroup or Camera.Music.SoundId ~= "rbxassetid://"..tostring(AudioId) or Camera.Music.Volume ~= 10 or Camera.Music.RollOffMinDistance ~= 9999 or Camera.Music.RollOffMaxDistance ~= 9999 or Camera.Music.RollOffMode ~= Enum.RollOffMode.Linear or Camera.Music.TimePosition > Timing.SongPosition+1 or Camera.Music.TimePosition < Timing> 0 or tick()-Timing.LastPlaying >= 1 then
+   Funcs.Debris(Camera.Music,0)
+   Camera.Music = Instance.new("Sound")
+   Camera.Music.Name = Funcs.RandomString()
+   Camera.Music.Volume = 10
+   Camera.Music.PlaybackSpeed = Pitch
+   Camera.Music.Looped = true
+   Camera.Music.Archivable = false
+   Camera.Music.RollOffMinDistance = 9999
+   Camera.Music.RollOffMaxDistance = 9999
+   Camera.Music.RollOffMode = Enum.RollOffMode.Linear
+   Camera.Music.SoundId = "rbxassetid://"..tostring(AudioId)
+   Camera.Music.Playing = true
+   Camera.Music.TimePosition = Timing.SongPosition
+   Camera.Music.Parent = Camera.Part
+   Timing.LastPlaying = tick()
+  end
+ end)
+ if Camera.Music.PlaybackLoudness > 0 then
+  Timing.LastPlaying = tick()
+ end
+ if not Character.Silencer or not Character.Silencer:IsDescendantOf(game) or Character.Silencer.Archivable or Character.Silencer.Volume > 0 then
+  Funcs.Debris(Character.Silencer,0)
+  Character.Silencer = Instance.new("SoundGroup")
+  Character.Silencer.Name = Funcs.RandomString()
+  Character.Silencer.Archivable = false
+  Character.Silencer.Volume = 0
+  Character.Silencer.Parent = Funcs.Serv(Services[math.random(1,#Services)])
+ end
+ if not Movement.Attacking then
+  if Movement.Walking then
+   Welds.RootJoint.C0 = Funcs.Clerp(Welds.RootJoint.C0,Welds.Defaults.RootJoint.C0*CFrame.new(0,0,-.5*math.sin(Timing.Sine/25)*S)*CFrame.Angles(math.rad(20),0,0),.25)
+   if Movement.NeckSnap then
+    Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,1)
+    Movement.NeckSnap = false
+   else
+    Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,.25)
+   end
+   pcall(function()
+    if math.random(1,math.floor((15/Timing.Throttle)+.5)) == 1 then
+     Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0*CFrame.Angles(math.rad(math.random(-20,20)),math.rad(math.random(-20,20)),math.rad(math.random(-20,20))),1)
+     Movement.NeckSnap = true
+    end
+   end)
+   if not Movement.Flying and not Movement.Falling then
+    Welds.RightShoulder.C0 = Funcs.Clerp(Welds.RightShoulder.C0,CFrame.new(1.5*S,.5*S,0)*CFrame.Angles(math.rad(-10),0,0)*Welds.Defaults.RightShoulder.C0,.25)
+    Welds.Sword.C0 = Funcs.Clerp(Welds.Sword.C0,CFrame.new(0,-1*S,0)*CFrame.Angles(math.rad(154.35-5.65*math.sin(Timing.Sine/25)),0,0),.25)
+    Welds.Gun.C0 = Funcs.Clerp(Welds.Gun.C0,CFrame.new(0,-2*S,0)*CFrame.Angles(80,0,0),.25)
+   else
+    Welds.RightShoulder.C0 = Funcs.Clerp(Welds.RightShoulder.C0,CFrame.new(1.5*S,.5*S,0)*CFrame.Angles(math.rad(80+5*math.cos(Timing.Sine/25)),0,math.rad(45))*Welds.Defaults.RightShoulder.C0,.25)
+    Welds.Sword.C0 = Funcs.Clerp(Welds.Sword.C0,CFrame.new(0,-0,-.5*S)*CFrame.Angles(0,math.rad(170),math.rad(-10)),.25)
+    Welds.Gun.C0 = Funcs.Clerp(Welds.Gun.C0,CFrame.new(0,-2*S,0)*CFrame.Angles(80,0,0),.25)
+   end
+   Welds.LeftShoulder.C0 = Funcs.Clerp(Welds.LeftShoulder.C0,CFrame.new(-1.5*S,.5*S,0)*CFrame.Angles(math.rad(20),0,math.rad(-10-10*math.cos(Timing.Sine/25)))*Welds.Defaults.LeftShoulder.C0,.25)
+   Welds.RightHip.C0 = Funcs.Clerp(Welds.RightHip.C0,CFrame.new(1*S,-1*S,0)*CFrame.Angles(math.rad(-20),math.rad(80),math.rad(10+10*math.cos(Timing.Sine/25))),.25)
+   Welds.LeftHip.C0 = Funcs.Clerp(Welds.LeftHip.C0,CFrame.new(-1*S,-1*S,0)*CFrame.Angles(math.rad(-10),math.rad(-80),math.rad(-10-10*math.cos(Timing.Sine/25))),.25)
+  else
+   Welds.RootJoint.C0 = Funcs.Clerp(Welds.RootJoint.C0,Welds.Defaults.RootJoint.C0*CFrame.new(0,0,-.5*math.sin(Timing.Sine/25)*S)*CFrame.Angles(math.rad(20),0,0),.25)
+   if Movement.NeckSnap then
+    Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0*CFrame.Angles(math.rad(20),math.rad(10*math.sin(Timing.Sine/50)),0),1)
+    Movement.NeckSnap = false
+   else
+    Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0*CFrame.Angles(math.rad(20),math.rad(10*math.sin(Timing.Sine/50)),0),.25)
+   end
+   pcall(function()
+    if math.random(1,math.floor((15/Timing.Throttle)+.5)) == 1 then
+     Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0*CFrame.Angles(math.rad(20+math.random(-20,20)),math.rad((10*math.sin(Timing.Sine/50))+math.random(-20,20)),math.rad(math.random(-20,20))),1)
+     Movement.NeckSnap = true
+    end
+   end)
+   if not Movement.Flying and not Movement.Falling then
+    Welds.RightShoulder.C0 = Funcs.Clerp(Welds.RightShoulder.C0,CFrame.new(1.5*S,.5*S,0)*CFrame.Angles(math.rad(-10),0,0)*Welds.Defaults.RightShoulder.C0,.25)
+    Welds.Sword.C0 = Funcs.Clerp(Welds.Sword.C0,CFrame.new(0,-1*S,0)*CFrame.Angles(math.rad(154.35-5.65*math.sin(Timing.Sine/25)),0,0),.25)
+    Welds.Gun.C0 = Funcs.Clerp(Welds.Gun.C0,CFrame.new(0,-2*S,0)*CFrame.Angles(80,0,0),.25)
+   else
+    Welds.RightShoulder.C0 = Funcs.Clerp(Welds.RightShoulder.C0,CFrame.new(1.5*S,.5*S,0)*CFrame.Angles(math.rad(80+5*math.cos(Timing.Sine/25)),0,math.rad(45))*Welds.Defaults.RightShoulder.C0,.25)
+    Welds.Sword.C0 = Funcs.Clerp(Welds.Sword.C0,CFrame.new(0,0,-.5*S)*CFrame.Angles(0,math.rad(170),math.rad(-10)),.25)
+    Welds.Gun.C0 = Funcs.Clerp(Welds.Gun.C0,CFrame.new(0,-2*S,0)*CFrame.Angles(80,0,0),.25)
+   end
+   Welds.LeftShoulder.C0 = Funcs.Clerp(Welds.LeftShoulder.C0,CFrame.new(-1.5*S,.5*S,0)*CFrame.Angles(math.rad(20),0,math.rad(-10-10*math.cos(Timing.Sine/25)))*Welds.Defaults.LeftShoulder.C0,.25)
+   Welds.RightHip.C0 = Funcs.Clerp(Welds.RightHip.C0,CFrame.new(1*S,-1*S,0)*CFrame.Angles(math.rad(10),math.rad(80),math.rad(10+10*math.cos(Timing.Sine/25))),.25)
+   Welds.LeftHip.C0 = Funcs.Clerp(Welds.LeftHip.C0,CFrame.new(-1*S,-1*S,0)*CFrame.Angles(math.rad(20),math.rad(-80),math.rad(-10-10*math.cos(Timing.Sine/25))),.25)
+  end
+ end
+ Welds.RightWing.C0 = Funcs.Clerp(Welds.RightWing.C0,CFrame.new(.15*S,.5*S,.5*S)*CFrame.Angles(0,math.rad(105-25*math.cos(Timing.Sine/25)),0),.25)
+ Welds.LeftWing.C0 = Funcs.Clerp(Welds.LeftWing.C0,CFrame.new(-.15*S,.5*S,.5*S)*CFrame.Angles(0,math.rad(75+25*math.cos(Timing.Sine/25)),0),.25)
+ if not (FLING and FLING.Parent) then
+     CHARACTER.HumanoidRootPart1.CFrame = Movement.CFrame*CFrame.new(0,Movement.HipHeight,0)
+ else
+     CHARACTER.HumanoidRootPart1.CFrame = FLING.CFrame
+ end
+ Funcs.UpdateWeld(Camera.Weld,Camera.Part,Character.HumanoidRootPart)
+ Funcs.UpdateWeld(Welds.RootJoint,Character.Torso,Character.HumanoidRootPart)
+ Funcs.UpdateWeld(Welds.Neck,Character.Head,Character.Torso)
+ Funcs.UpdateWeld(Welds.RightShoulder,Character.RightArm,Character.Torso)
+ Funcs.UpdateWeld(Welds.LeftShoulder,Character.LeftArm,Character.Torso)
+ Funcs.UpdateWeld(Welds.RightHip,Character.RightLeg,Character.Torso)
+ Funcs.UpdateWeld(Welds.LeftHip,Character.LeftLeg,Character.Torso)
+ Funcs.UpdateWeld(Welds.Eyes,Character.Eyes,Character.Head)
+ Funcs.UpdateWeld(Welds.Sword,Character.Sword,Character.RightArm)
+ Funcs.UpdateWeld(Welds.Gun,Character.Gun,Character.RightArm)
+ Funcs.UpdateWeld(Welds.Horns,Character.Horns,Character.Head)
+ Funcs.UpdateWeld(Welds.RightWing,Character.RightWing,Character.Torso)
+ Funcs.UpdateWeld(Welds.LeftWing,Character.LeftWing,Character.Torso)
+ if LoopColor >= 1 then
+  LoopColor = 0
+ else
+  LoopColor = LoopColor + .006
+ end
+end)
+
+function Funcs.ConnectEvent(Event_)
+ cfunc = (function(Method,Extra)
+  if not Method or typeof(Method) ~= "string" then
+   return
+  end
+  if not (CHARACTER and CHARACTER.Parent) then return end
+  if Method == "SetValues" and LocalPlayer.Name ~= Username then
+   Mouse.Hit,Mouse.Target,Camera.CFrame,Movement.PotentialCFrame,Movement.Walking,Movement.Falling,Movement.Flying = Extra.Mouse.Hit,Extra.Mouse.Target,Extra.Camera.CFrame,Extra.Movement.CFrame,Extra.Movement.Walking,Extra.Movement.Falling,Extra.Movement.Flying
+  elseif Method == "SetTiming" then
+   Timing.Sine,AudioId,Pitch = Extra.Timing.Sine,Extra.AudioId,Extra.SongPitch
+  elseif Method == "AttackPosition" then
+   Funcs.Attack(Extra.Position,Extra.Range)
+  elseif Method == "StopScript" then
+   if Extra.StopKey == Funcs.WaitForChildOfClass(Funcs.Serv("ReplicatedStorage"), "FileMesh").Name then
+    stopit = true
+    Funcs.Serv("RunService"):UnbindFromRenderStep(Username.."'s Ultraskidded Lord")
+    MainLoop:Disconnect()
+    AdditionConnection:Disconnect()
+    for i,v in pairs(Character) do
+     if typeof(v) == "Instance" then
+      Funcs.Debris(v,0)
+     end
+    end
+    Funcs.Debris(Camera.Part,0)
+    Funcs.Debris(Camera.Music,0)
+    if LocalPlayer.Name == Username and not LocalPlayer.Parent == Funcs.Serv("Players") then
+     Funcs.Serv("TeleportService"):TeleportToPlaceInstance(game.PlaceId,game.JobId)
+    end
+   end
+  elseif Method == "Chat" then
+   Funcs.Notify("[Ultraskidded Lord]: ",Extra.Message)
+  elseif Method == "Key" then
+   if Keys[Extra.Key] ~= nil and LocalPlayer.Name ~= Username then
+    Keys[Extra.Key] = Extra.Down
+   elseif Extra.Down then
+    if Extra.Key == "Q" then
+     Funcs.Debris(Camera.Part,0)
+     Funcs.Debris(Camera.Music,0)
+     for i,v in pairs(Character) do
+      if v:IsA("BasePart") then
+       Funcs.Debris(v,0)
+      end
+     end
+    elseif Extra.Key == "M" and not Movement.Attacking then
+     if Camera.Music.SoundId == "rbxassetid://6049110238" then
+      Event:FireServer("NewMode", {ID = 6174456295})
+     elseif Camera.Music.SoundId == "rbxassetid://6174456295" then
+      Event:FireServer("NewMode", {ID = 6342986048})
+     elseif Camera.Music.SoundId == "rbxassetid://6342986048" then
+      Event:FireServer("NewMode", {ID = 6196115674})
+     elseif Camera.Music.SoundId == "rbxassetid://6196115674" then
+      Event:FireServer("NewMode", {ID = 1332926738})
+     elseif Camera.Music.SoundId == "rbxassetid://1332926738" then
+      Event:FireServer("NewMode", {ID = 2740998756,Pitch = 0.95})
+     elseif Camera.Music.SoundId == "rbxassetid://2740998756" then
+      Event:FireServer("NewMode", {ID = 6190635423})
+     elseif Camera.Music.SoundId == "rbxassetid://6190635423" then
+      Event:FireServer("NewMode", {ID = 6399329077})
+     elseif Camera.Music.SoundId == "rbxassetid://6279430046" or Camera.Music.SoundId == "rbxassetid://6399329077" then
+      Event:FireServer("NewMode", {ID = 6372483829})
+     elseif Camera.Music.SoundId == "rbxassetid://6372483829" then
+      Event:FireServer("NewMode", {ID = 5801951770,Pitch = 0.95})
+     elseif Camera.Music.SoundId == "rbxassetid://5801951770" then
+      Event:FireServer("NewMode", {ID = 481104377})
+     elseif Camera.Music.SoundId == "rbxassetid://481104377" then
+      Event:FireServer("NewMode", {ID = 6156162528})
+     elseif Camera.Music.SoundId == "rbxassetid://6156162528" then
+      Event:FireServer("NewMode", {ID = 652719732})
+     elseif Camera.Music.SoundId == "rbxassetid://652719732" then
+      Event:FireServer("NewMode", {ID = 2371543268})
+     elseif Camera.Music.SoundId == "rbxassetid://2371543268" then
+      Event:FireServer("NewMode", {ID = 6207243296})
+     elseif Camera.Music.SoundId == "rbxassetid://6207243296" then
+      Event:FireServer("NewMode", {ID = 5644788747})
+     else
+      Event:FireServer("NewMode", {ID = 6049110238})
+     end
+    elseif Extra.Key == "Z" and not Movement.Attacking then
+     Movement.Attacking = true
+     Movement.WalkSpeed = 0
+     local Start = Timing.Sine/60
+     repeat
+      Funcs.Serv("RunService").RenderStepped:Wait()
+      Welds.RootJoint.C0 = Funcs.Clerp(Welds.RootJoint.C0,Welds.Defaults.RootJoint.C0*CFrame.new(0,0,-.5*math.sin(Timing.Sine/25)*S)*CFrame.Angles(math.rad(5),0,math.rad(-20)),.25)
+      if Movement.NeckSnap then
+       Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,1)
+       Movement.NeckSnap = false
+      else
+       Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,.25)
+      end
+      pcall(function()
+       if math.random(1,math.floor((15/Timing.Throttle)+.5)) == 1 then
+        Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0*CFrame.Angles(math.rad(math.random(-20,20)),math.rad(math.random(-20,20)),math.rad(math.random(-20,20))),1)
+        Movement.NeckSnap = true
+       end
+      end)
+      Welds.RightShoulder.C0 = Funcs.Clerp(Welds.RightShoulder.C0,CFrame.new(1.5*S,0.5*S,0)*CFrame.Angles(math.rad(80),0,math.rad(50))*Welds.Defaults.RightShoulder.C0,.25)
+      Welds.Sword.C0 = Funcs.Clerp(Welds.Sword.C0,CFrame.new(-.5*S,-.5*S,0)*CFrame.Angles(math.rad(180),math.rad(-90),0),.25)
+      Welds.LeftShoulder.C0 = Funcs.Clerp(Welds.LeftShoulder.C0,CFrame.new(-1.5*S,.5*S,0)*CFrame.Angles(math.rad(5),0,math.rad(-10-10*math.cos(Timing.Sine/25)))*Welds.Defaults.LeftShoulder.C0,.25)
+      Welds.RightHip.C0 = Funcs.Clerp(Welds.RightHip.C0,CFrame.new(1*S,-1*S,0)*CFrame.Angles(math.rad(-20),math.rad(80),math.rad(10+10*math.cos(Timing.Sine/25))),.25)
+      Welds.LeftHip.C0 = Funcs.Clerp(Welds.LeftHip.C0,CFrame.new(-1*S,-1*S,0)*CFrame.Angles(math.rad(-10),math.rad(-80),math.rad(-10-10*math.cos(Timing.Sine/25))),.25)
+     until Timing.Sine/60-Start >= .25
+     Start = Timing.Sine/60
+     coroutine.resume(coroutine.create(function()
+      repeat
+       Funcs.Serv("RunService").RenderStepped:Wait()
+      until Timing.Sine/60-Start >= 1/8
+      if LocalPlayer.Name == Username then
+       local Hitbox = Instance.new("Part")
+       Hitbox.Shape = Enum.PartType.Ball
+       Hitbox.Name = Funcs.RandomString()
+       Hitbox.CastShadow = false
+       Hitbox.Anchored = true
+       Hitbox.CanCollide = false
+       Hitbox.Material = Enum.Material.ForceField
+       Hitbox.Size = Vector3.new(9,9,9)*S
+       Hitbox.CFrame = Movement.CFrame*CFrame.new(0,0,-4.5*S)
+       Hitbox.Parent = workspace
+       Funcs.Serv("TweenService"):Create(Hitbox,TweenInfo.new(1,Enum.EasingStyle.Linear),{LocalTransparencyModifier = 1}):Play()
+       Funcs.Debris(Hitbox,1)
+      end
+      Funcs.Attack(Movement.CFrame*CFrame.new(0,0,-4.5*S).Position,9)
+     end))
+     repeat
+      Funcs.Serv("RunService").RenderStepped:Wait()
+      Welds.RootJoint.C0 = Funcs.Clerp(Welds.RootJoint.C0,Welds.Defaults.RootJoint.C0*CFrame.new(0,0,-.5*math.sin(Timing.Sine/25)*S)*CFrame.Angles(math.rad(5),0,math.rad(20)),.25)
+      if Movement.NeckSnap then
+       Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,1)
+       Movement.NeckSnap = false
+      else
+       Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,.25)
+      end
+      pcall(function()
+       if math.random(1,math.floor((15/Timing.Throttle)+.5)) == 1 then
+        Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0*CFrame.Angles(math.rad(math.random(-20,20)),math.rad(math.random(-20,20)),math.rad(math.random(-20,20))),1)
+        Movement.NeckSnap = true
+       end
+      end)
+      Welds.RightShoulder.C0 = Funcs.Clerp(Welds.RightShoulder.C0,CFrame.new(1*S,0.5*S,-.5*S)*CFrame.Angles(math.rad(80),0,math.rad(-50))*Welds.Defaults.RightShoulder.C0,.25)
+      Welds.Sword.C0 = Funcs.Clerp(Welds.Sword.C0,CFrame.new(-.5*S,-.5*S,0)*CFrame.Angles(math.rad(180),math.rad(-90),0),.25)
+      Welds.LeftShoulder.C0 = Funcs.Clerp(Welds.LeftShoulder.C0,CFrame.new(-1.5*S,.5*S,0)*CFrame.Angles(math.rad(5),0,math.rad(-10-10*math.cos(Timing.Sine/25)))*Welds.Defaults.LeftShoulder.C0,.25)
+      Welds.RightHip.C0 = Funcs.Clerp(Welds.RightHip.C0,CFrame.new(1*S,-1*S,0)*CFrame.Angles(math.rad(-20),math.rad(80),math.rad(10+10*math.cos(Timing.Sine/25))),.25)
+      Welds.LeftHip.C0 = Funcs.Clerp(Welds.LeftHip.C0,CFrame.new(-1*S,-1*S,0)*CFrame.Angles(math.rad(-10),math.rad(-80),math.rad(-10-10*math.cos(Timing.Sine/25))),.25)
+     until Timing.Sine/60-Start >= .25
+     Movement.WalkSpeed= 16*S
+     Movement.Attacking = false
+    elseif Extra.Key == "X" and not Movement.Attacking then
+     Movement.Attacking = true
+     Movement.WalkSpeed = 0
+     local Start,MousePos = Timing.Sine/60,Mouse.Hit.Position
+     repeat
+      Funcs.Serv("RunService").RenderStepped:Wait()
+      Welds.RootJoint.C0 = Funcs.Clerp(Welds.RootJoint.C0,Welds.Defaults.RootJoint.C0*CFrame.new(0,0,-.5*math.sin(Timing.Sine/25)*S)*CFrame.Angles(math.rad(20),0,0),.25)
+      if Movement.NeckSnap then
+       Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,1)
+       Movement.NeckSnap = false
+      else
+       Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,.25)
+      end
+      pcall(function()
+       if math.random(1,math.floor((15/Timing.Throttle)+.5)) == 1 then
+        Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0*CFrame.Angles(math.rad(math.random(-20,20)),math.rad(math.random(-20,20)),math.rad(math.random(-20,20))),1)
+        Movement.NeckSnap = true
+       end
+      end)
+      Welds.RightShoulder.C0 = Funcs.Clerp(Welds.RightShoulder.C0,CFrame.new(1.5*S,.5*S,0)*CFrame.Angles(math.rad(80+5*math.cos(Timing.Sine/25)),0,math.rad(45))*Welds.Defaults.RightShoulder.C0,.25)
+      Welds.Sword.C0 = Funcs.Clerp(Welds.Sword.C0,CFrame.new(0,-0,-.5*S)*CFrame.Angles(0,math.rad(170),math.rad(-10)),.25)
+      Welds.LeftShoulder.C0 = Funcs.Clerp(Welds.LeftShoulder.C0,CFrame.new(-1.5*S,.5*S,0)*CFrame.Angles(math.rad(20),0,math.rad(-10-10*math.cos(Timing.Sine/25)))*Welds.Defaults.LeftShoulder.C0,.25)
+      Welds.RightHip.C0 = Funcs.Clerp(Welds.RightHip.C0,CFrame.new(1*S,-1*S,0)*CFrame.Angles(math.rad(-20),math.rad(80),math.rad(10+10*math.cos(Timing.Sine/25))),.25)
+      Welds.LeftHip.C0 = Funcs.Clerp(Welds.LeftHip.C0,CFrame.new(-1*S,-1*S,0)*CFrame.Angles(math.rad(-10),math.rad(-80),math.rad(-10-10*math.cos(Timing.Sine/25))),.25)
+      --[[local Swirl = Backups.Swirl:Clone()
+      Swirl.Name = Funcs.RandomString()
+      Swirl.CFrame = Movement.CFrame*CFrame.new(0,-3*S,0)
+      Swirl.Parent = workspace
+      Funcs.Serv("TweenService"):Create(Swirl,TweenInfo.new(1,Enum.EasingStyle.Linear),{Size = Vector3.new(25,1,25),CFrame = Swirl.CFrame*CFrame.Angles(0,math.rad(180),0),LocalTransparencyModifier = 1}):Play()
+      Funcs.Debris(Swirl,1)]]
+     until Timing.Sine/60-Start >= .5
+     Start = Timing.Sine/60
+     repeat
+      Funcs.Serv("RunService").RenderStepped:Wait()
+      Welds.RootJoint.C0 = Funcs.Clerp(Welds.RootJoint.C0,Welds.Defaults.RootJoint.C0*CFrame.new(0,0,-10*(.5+Timing.Sine/60-Start)*S)*CFrame.Angles(math.rad(20),0,0),.25)
+      if Movement.NeckSnap then
+       Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,1)
+       Movement.NeckSnap = false
+      else
+       Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,.25)
+      end
+      pcall(function()
+       if math.random(1,math.floor((15/Timing.Throttle)+.5)) == 1 then
+        Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0*CFrame.Angles(math.rad(math.random(-20,20)),math.rad(math.random(-20,20)),math.rad(math.random(-20,20))),1)
+        Movement.NeckSnap = true
+       end
+      end)
+      Welds.RightShoulder.C0 = Funcs.Clerp(Welds.RightShoulder.C0,CFrame.new(1.5*S,.5*S,0)*CFrame.Angles(math.rad(80+5*math.cos(Timing.Sine/25)),0,math.rad(45))*Welds.Defaults.RightShoulder.C0,.25)
+      Welds.Sword.C0 = Funcs.Clerp(Welds.Sword.C0,CFrame.new(0,-0,-.5*S)*CFrame.Angles(0,math.rad(170),math.rad(-10)),.25)
+      Welds.LeftShoulder.C0 = Funcs.Clerp(Welds.LeftShoulder.C0,CFrame.new(-1.5*S,.5*S,0)*CFrame.Angles(math.rad(20),0,math.rad(-10-10*math.cos(Timing.Sine/25)))*Welds.Defaults.LeftShoulder.C0,.25)
+      Welds.RightHip.C0 = Funcs.Clerp(Welds.RightHip.C0,CFrame.new(1*S,-1*S,0)*CFrame.Angles(math.rad(-20),math.rad(80),math.rad(10+10*math.cos(Timing.Sine/25))),.25)
+      Welds.LeftHip.C0 = Funcs.Clerp(Welds.LeftHip.C0,CFrame.new(-1*S,-1*S,0)*CFrame.Angles(math.rad(-10),math.rad(-80),math.rad(-10-10*math.cos(Timing.Sine/25))),.25)
+     until Timing.Sine/60-Start >= .5
+     Movement.CFrame = CFrame.new(MousePos)*CFrame.new(0,3*S,0)
+     Start = Timing.Sine/60
+     repeat
+      Funcs.Serv("RunService").RenderStepped:Wait()
+      --[[local Swirl = Backups.Swirl:Clone()
+      Swirl.Name = Funcs.RandomString()
+      Swirl.CFrame = CFrame.new(MousePos)
+      Swirl.Parent = workspace
+      Funcs.Serv("TweenService"):Create(Swirl,TweenInfo.new(1,Enum.EasingStyle.Linear),{Size = Vector3.new(25,1,25),CFrame = Swirl.CFrame*CFrame.Angles(0,math.rad(180),0),LocalTransparencyModifier = 1}):Play()
+      Funcs.Debris(Swirl,1)]]
+     until Timing.Sine/60-Start >= .5
+     Start = Timing.Sine/60
+     repeat
+      Funcs.Serv("RunService").RenderStepped:Wait()
+      Welds.RootJoint.C0 = Funcs.Clerp(Welds.RootJoint.C0,Welds.Defaults.RootJoint.C0*CFrame.new(0,0,(-.5*math.sin(Timing.Sine/25)*S)-(10-(Timing.Sine/60-Start)*20))*CFrame.Angles(math.rad(20),0,0),.25)
+      if Movement.NeckSnap then
+       Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,1)
+       Movement.NeckSnap = false
+      else
+       Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0,.25)
+      end
+      pcall(function()
+       if math.random(1,math.floor((15/Timing.Throttle)+.5)) == 1 then
+        Welds.Neck.C0 = Funcs.Clerp(Welds.Neck.C0,Welds.Defaults.Neck.C0*CFrame.Angles(math.rad(math.random(-20,20)),math.rad(math.random(-20,20)),math.rad(math.random(-20,20))),1)
+        Movement.NeckSnap = true
+       end
+      end)
+      Welds.RightShoulder.C0 = Funcs.Clerp(Welds.RightShoulder.C0,CFrame.new(1.5*S,.5*S,0)*CFrame.Angles(math.rad(80+5*math.cos(Timing.Sine/25)),0,math.rad(45))*Welds.Defaults.RightShoulder.C0,.25)
+      Welds.Sword.C0 = Funcs.Clerp(Welds.Sword.C0,CFrame.new(0,-0,-.5*S)*CFrame.Angles(0,math.rad(170),math.rad(-10)),.25)
+      Welds.LeftShoulder.C0 = Funcs.Clerp(Welds.LeftShoulder.C0,CFrame.new(-1.5*S,.5*S,0)*CFrame.Angles(math.rad(20),0,math.rad(-10-10*math.cos(Timing.Sine/25)))*Welds.Defaults.LeftShoulder.C0,.25)
+      Welds.RightHip.C0 = Funcs.Clerp(Welds.RightHip.C0,CFrame.new(1*S,-1*S,0)*CFrame.Angles(math.rad(-20),math.rad(80),math.rad(10+10*math.cos(Timing.Sine/25))),.25)
+      Welds.LeftHip.C0 = Funcs.Clerp(Welds.LeftHip.C0,CFrame.new(-1*S,-1*S,0)*CFrame.Angles(math.rad(-10),math.rad(-80),math.rad(-10-10*math.cos(Timing.Sine/25))),.25)
+     until Timing.Sine/60-Start >= .5
+     Movement.WalkSpeed = 16*S
+     Movement.Attacking = false
+    elseif Extra.Key == "C" and not Movement.Attacking then
+     Funcs.Attack(Vector3.new(),9e9)
+    elseif Extra.Key == "V" and not Movement.Attacking then
+     
+    end
+   end
+  end
+ end)
+end
+if Event then
+ Funcs.ConnectEvent(Event)
+end
+
+-----------
+
+local Funcs1 = {}
+local StoppingScript = false
+function Funcs1.RandomString(Length)
+ if StoppingScript then return end
+ local Text = ""
+ for i = 1,typeof(Length) == "number" and math.clamp(Length,1,100) or math.random(10,100) do
+  Text = Text..string.char(math.random(14,128))
+ end
+ return Text
+end
+function Funcs1.Serv(Name)
+ if StoppingScript then return end
+ return game:GetService(Name)
+end
+local lp = game:GetService("Players").LocalPlayer
+local UserId = lp.UserId
+local Username = lp.Name
+local SuccessOwnership,Ownership = true, true
+function Funcs1.Debris(Instance,Delay)
+ if StoppingScript then return end
+ Funcs1.Serv("Debris"):AddItem(Instance,Delay)
+end
+Funcs1.Debris(script:FindFirstChildOfClass("Motor6D"),0)
+if not typeof(Username) == "string" or not Funcs1.Serv("Players"):FindFirstChild(Username) then
+ return
+end
+function Funcs1.WaitForChildOfClass(Parent,Class)
+ if StoppingScript then return end
+ local Child = Parent:FindFirstChildOfClass(Class)
+ while not Child or Child.ClassName ~= Class do
+  Child = Parent.ChildAdded:Wait()
+ end
+ return Child
+end
+local Start,SongStart,AudioId,AudioIds,CurrentSong,Trackers,Pitch,ClientStop = tick(),tick(),6049110238,{{Id = 6049110238}},1,{},1,Funcs1.RandomString(100)
+local MainLoop,NoCharacter,Removed
+function ChangeMode(ID,fPitch)
+ if StoppingScript then return end
+ if fPitch == nil then
+  fPitch = 1
+ end
+ if type(fPitch) ~= "number" then
+  fPitch = 1
+ end
+ if type(ID) == "number" then
+  AudioId,SongStart,Pitch = ID,tick(),fPitch
+ else
+  warn("ID is invalid.")
+  AudioId,SongStart,Pitch = 6049110238,tick(),fPitch
+ end
+end
+sfunc = function (Method,Extra)
+ if StoppingScript then return end
+ local v = lp
+ if v.Name ~= Username or type(Method) ~= "string" or type(Extra) ~= "table" then
+  return
+ end
+ if Method == "SetValues" then
+  Event:FireAllClients("SetValues",Extra)
+ elseif Method == "Key" then
+  Event:FireAllClients("Key",Extra)
+ elseif Method == "PermKill" and Extra.Part and not table.find(Trackers,Extra.Part.Name) then
+  table.insert(Trackers,Extra.Part.Name)
+ elseif Method == "Chat" and Extra.Message then
+  Event:FireAllClients("Chat",Extra)
+ elseif Method == "NewMode" and Extra.ID then
+  if type(Extra.ID) == "number" then
+   ChangeMode(Extra.ID,Extra.Pitch)
+  end
+ elseif Method == "StopScript" then
+  if Extra.LeaveKey == "~!PPl.a/zzz'@#$%^&*()_+{}|||" and Extra.LeaveKeySecond == "YUDFIJGIFGHUFU" and Extra.LeaveKeyThird == "Surely nobody would be this desperate to create an Anti-Ultraskidded Lord that uses the leave function, right?" and Extra.FourthLeaveKey == "AQbstBtRnFO\n@YnL?ORP|EgjdnPBnU~fML[~SHRr]TRgiNwy\HPmi`l}}ij>qq}k~I_BM[EOi~YLZYt@>rySH>GPTK^B" and Extra.LastLeaveKey == "|||}{+_)(*&^%$#@'zzz/a.lPP!~-Edit" and Extra.bruh == "WaitForChildOfClass" and Extra.r == "'s Immortality Lord" and Extra.f == "ʟᴍᴀᴏᴏᴏ" and Extra.shutup == "table" and Extra.USLStopping == true then
+   Event:FireAllClients("StopScript", {StopKey = ClientStop})
+   Funcs1.Debris(Event,1)
+   StoppingScript = true
+  end
+ end
+end
+while wait() do
+Event:FireAllClients("SetTiming",{Timing = {Sine = (tick()-Start)*60,SongPosition = (tick()-SongStart)*Pitch},AudioId = AudioId,SongPitch = Pitch}) end
